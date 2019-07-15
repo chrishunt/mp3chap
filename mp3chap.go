@@ -30,8 +30,8 @@ package main
 
 import (
 	"fmt"
-	id3 "github.com/jcs/id3-go"
-	id3v2 "github.com/jcs/id3-go/v2"
+	id3 "github.com/chrishunt/id3-go"
+	id3v2 "github.com/chrishunt/id3-go/v2"
 	"log"
 	"os"
 	"strconv"
